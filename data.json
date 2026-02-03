@@ -1,0 +1,28 @@
+{
+  "saldo": 100430000,
+  "transaksi": [
+    {
+      "tipe": "pemasukan",
+      "jumlah": 100000000,
+      "waktu": "2026-02-03T06:19:22.545203"
+    },
+    {
+      "tipe": "pemasukan",
+      "jumlah": 300000,
+      "waktu": "2026-02-03T06:19:37.037197"
+    },
+    {
+      "tipe": "pengeluaran",
+      "jumlah": 200000,
+      "kategori": "shopping",
+      "waktu": "2026-02-03T06:20:02.454726"
+    },
+    {
+      "tipe": "pemasukan",
+      "jumlah": 330000,
+      "waktu": "2026-02-03T06:28:24.086841"
+    }
+  ],
+  "target_tabungan": 5000000,
+  "nama_target": "bekli ipad"
+}
